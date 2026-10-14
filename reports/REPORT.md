@@ -1,8 +1,8 @@
 # Lab 25B — Báo cáo Game Day
 
 **Họ tên / nhóm:** Nguyễn Vũ Quang Anh 
-**MSV:** _Cần bổ sung trước khi nộp_  
-**Commit:** _WORKTREE — cập nhật bằng commit nộp bài_  
+**MSV:** 2A202602805  
+**Commit:** 4f4fff63822b1ec91fb7eef7d95db18a65dd3a12 
 **Điểm tự động (`make grade`):** **84 / 88** trên dữ liệu công khai; 4 điểm SLO còn lại do giảng viên chấm trên dữ liệu ẩn.
 
 Môi trường chạy: Python 3.10+, seed 25. Toàn bộ 82 unit test vượt qua; 6/6 băng Game Day, workflow, SLO công khai và C1 đều PASS.
